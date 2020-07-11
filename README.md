@@ -21,7 +21,7 @@ Links to privacy policies of third party service providers used in the app
 
 
 Google Play Services https://www.google.com/policies/privacy/
-Unity ADS https://unity3d.com/en/legal/privacy-policy
+Unity ADS https://unity3d.com/legal/privacy-policy
 
 
 
@@ -50,8 +50,8 @@ Your personal information may be disclosed:
 
 3.1 Unity
 
-* Unity Privacy Policy https://unity3d.com/en/legal/privacy-policy
-* Unity, GDPR and Data Privacy FAQ https://unity3d.com/en/legal/gdpr
+* Unity Privacy Policy https://unity3d.com/legal/privacy-policy
+* Unity, GDPR and Data Privacy FAQ https://unity3d.com/legal/gdpr
 
 A.
 
